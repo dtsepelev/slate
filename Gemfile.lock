@@ -105,6 +105,7 @@ GEM
     thor (0.19.4)
     thread_safe (0.3.5)
     tilt (2.0.6)
+    translit (0.1.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uglifier (3.0.4)
@@ -121,9 +122,10 @@ DEPENDENCIES
   nokogiri (~> 1.6.8)
   redcarpet (~> 3.4.0)
   rouge (~> 2.0.5)
+  translit (~> 0.1.5)
 
 RUBY VERSION
    ruby 2.3.3p222
 
 BUNDLED WITH
-   1.14.5
+   1.15.2
